@@ -1,7 +1,7 @@
 <h1 align="center">Hi ??, I'm Fahad mir</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<img align ="right" alt="coding" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0m-K4jE8gJ29_IcNChTYer&ust=1717490442433000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDnv8-Ev4YDFQAAAAAdAAAAABAE">
+<img align ="right" alt="coding" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fmale-programmer-doing-coding-work-9560195&psig=AOvVaw0m-K4jE8gJ29_IcNChTYer&ust=1717490442433000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDnv8-Ev4YDFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadmir44&label=Profile%20views&color=0e75b6&style=flat" alt="fahadmir44" /> </p>
 
